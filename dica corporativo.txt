@@ -1,7 +1,0 @@
-1-  java EE -enterprese aplication projetct ear
-2- web e marca a op��o add project an EAR e modify e selecion JSF
-3- Cria o projeto EJB e 
-modify e selecion  JPA depois adiciona no classpath do web o EJB
-
-
-estudar
